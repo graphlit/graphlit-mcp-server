@@ -1,4 +1,6 @@
 [![npm version](https://badge.fury.io/js/graphlit-mcp-server.svg)](https://badge.fury.io/js/graphlit-mcp-server)
+
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/graphlit/graphlit-mcp-server)](https://archestra.ai/mcp-catalog/graphlit__graphlit-mcp-server)
 [![smithery badge](https://smithery.ai/badge/@graphlit/graphlit-mcp-server)](https://smithery.ai/server/@graphlit/graphlit-mcp-server)
 
 # Model Context Protocol (MCP) Server for Graphlit Platform
