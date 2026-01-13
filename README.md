@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/graphlit-graphlit-mcp-server-badge.png)](https://mseep.ai/app/graphlit-graphlit-mcp-server)
+
 [![npm version](https://badge.fury.io/js/graphlit-mcp-server.svg)](https://badge.fury.io/js/graphlit-mcp-server)
 [![smithery badge](https://smithery.ai/badge/@graphlit/graphlit-mcp-server)](https://smithery.ai/server/@graphlit/graphlit-mcp-server)
 
